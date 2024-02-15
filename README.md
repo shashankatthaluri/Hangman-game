@@ -38,7 +38,7 @@ To run the game:
 
 1. Install Python 
 2. Clone this repo
-3. Run `[python hangman.py](https://github.com/shashankatthaluri/Hangman-game/blob/b77624d960e48d76d65a9c1cf2c19589e59a8d90/Hangman/hangman.py)`
+3. Run [`python hangman.py'](https://github.com/shashankatthaluri/Hangman-game/blob/b77624d960e48d76d65a9c1cf2c19589e59a8d90/Hangman/hangman.py)
 4. Follow the prompts to play!
 
 ## 👨‍💻 Author
