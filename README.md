@@ -1,6 +1,4 @@
- Here is a proposed Readme.md file for the Hangman game project described in the document:
-
-### 🕹 Hangman Game Project 🕹
+## 🕹 Hangman Game Project 🕹
 
 A fun multiplayer hangman game built with Python! 🐍
 
