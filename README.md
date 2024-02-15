@@ -1,4 +1,4 @@
-## 🕹 Hangman Game Project 🕹
+### 🕹 Hangman Game Project 🕹 ###
 
 A fun multiplayer hangman game built with Python! 🐍
 
