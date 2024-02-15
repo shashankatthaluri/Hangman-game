@@ -1,4 +1,4 @@
-## 🕹 **Hangman Game Project** 🕹 
+# 🕹 Hangman Game Project 🕹 
 
 A fun multiplayer hangman game built with Python! 🐍
 
@@ -43,4 +43,4 @@ To run the game:
 
 ## 👨‍💻 Author
 
-Created by [your name] - feel free to contact me if you have any other questions!
+Created by Atthaluri Shashank - feel free to contact me if you have any other questions!
